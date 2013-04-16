@@ -1,4 +1,4 @@
-this is file one in appp2
+this is file one in app2
 
 this is for the git workshop
 
