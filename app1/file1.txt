@@ -1,4 +1,4 @@
-this is file one
+this should create a conflict file one
 
 this is for the git workshop
 
